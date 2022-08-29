@@ -35,9 +35,26 @@ public class MainActivity7 extends AppCompatActivity {
                 dialog.getWindow().setLayout(ConstraintLayout.LayoutParams.MATCH_PARENT,ConstraintLayout.LayoutParams.MATCH_PARENT);
                 dialog.getWindow().setBackgroundDrawable(new ColorDrawable(android.graphics.Color.TRANSPARENT));
                 dialog.show();
-
-
-
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
             }
         });
     }
