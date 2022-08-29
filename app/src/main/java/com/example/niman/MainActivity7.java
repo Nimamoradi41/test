@@ -55,6 +55,23 @@ public class MainActivity7 extends AppCompatActivity {
                 Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity7.this, "A", Toast.LENGTH_SHORT).show();
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Android
+                // Androiddd
             }
         });
     }
